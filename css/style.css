@@ -150,7 +150,7 @@ section.chamada p{
 }
 
 .container-footer{
-    background-image: url(/images/footer.jpg);
+    background-image: url(images/footer.jpg);
     height: 80px;
     font-size: 20px;
     opacity: 0.8;
