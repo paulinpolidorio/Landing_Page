@@ -42,7 +42,7 @@ header{
     width: 150px;
     height: 60px;
     float: right;
-    background-image: url(/images/logo2.png);
+    background-image: url(images/logo2.png);
     background-size: 100% auto;
     background-repeat: no-repeat;
 }
