@@ -55,7 +55,7 @@ section.cover-form{
 .bg{
     position: relative;
     height: 600px;
-    background-image: url(/images/bg-form.jpg);
+    background-image: url(images/bg-form.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -185,7 +185,7 @@ section.chamada p{
     height: 60px;
     width: 60px;
     position: absolute;
-    background-image: url(/images/arrow.png);
+    background-image: url(../images/arrow.png);
     background-size: 100% 100%;
 }
 @media screen and (max-width:768px){
